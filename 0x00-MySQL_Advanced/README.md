@@ -39,6 +39,9 @@ For my learning of backend web dev in ALX School
 
 ## Files
 
-| **Files**                                 | **Description** *                                                  |
-| ----------------------------------------- | ------------------------------------------------------------- |
-| [0-uniq_users.sql](./0-uniq_users.sql)    | Create table users which can be executed on any database
+| **Files**                                     | **Description** *                                             |
+| --------------------------------------------- | ------------------------------------------------------------- |
+| [0-uniq_users.sql](./0-uniq_users.sql)        | Create table users which can be executed on any database      |
+| [1-country_users.sql](./1-country_users.sql)  | Create table user with enum                                   |
+| [2-fans.sql](./2-fans.sql)                    | Rank                                                          |
+| [3-glam_rock.sql](./3-glam_rock.sql)          | All bands with Glam Rock ranked by longetivity                |
