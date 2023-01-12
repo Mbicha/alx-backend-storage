@@ -49,3 +49,5 @@ For my learning of backend web dev in ALX School
 | [5-valid_email.sql](./5-valid_email.sql)      | Trigger for resseting valid email when email has changes.     |
 | [6-bonus](./6-bonus.sql)                      | Add procecedure                                               |
 | [7-average_score.sql](./7-average_score.sql)  | Another procedure                                             |
+| [8-index_my_names.sql](./8-index_my_names.sql)| Indexing to optimize search                                   |
+
