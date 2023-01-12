@@ -45,3 +45,4 @@ For my learning of backend web dev in ALX School
 | [1-country_users.sql](./1-country_users.sql)  | Create table user with enum                                   |
 | [2-fans.sql](./2-fans.sql)                    | Rank                                                          |
 | [3-glam_rock.sql](./3-glam_rock.sql)          | All bands with Glam Rock ranked by longetivity                |
+| [4-store.sql](./4-store.sql)                  | Trigger for reducing quantity of an item on adding new order  |
