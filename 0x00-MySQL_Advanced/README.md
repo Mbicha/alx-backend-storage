@@ -50,4 +50,6 @@ For my learning of backend web dev in ALX School
 | [6-bonus](./6-bonus.sql)                      | Add procecedure                                               |
 | [7-average_score.sql](./7-average_score.sql)  | Another procedure                                             |
 | [8-index_my_names.sql](./8-index_my_names.sql)| Indexing to optimize search                                   |
-| [9](./9-index_name_score.sql )                | indexing                                                      |
+| [9](./9-index_name_score.sql)                 | indexing                                                      |
+| [10-div.sql](./10-div.sql)                    | Function Safediv                                              |
+
