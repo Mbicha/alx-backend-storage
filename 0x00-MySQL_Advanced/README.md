@@ -53,3 +53,4 @@ For my learning of backend web dev in ALX School
 | [9](./9-index_name_score.sql)                 | indexing                                                      |
 | [10-div.sql](./10-div.sql)                    | Function Safediv                                              |
 | [11-need_meeting.sql](./11-need_meeting.sql)  | View                                                          |
+| [100](./100-average_weighted_score.sql)       | 
