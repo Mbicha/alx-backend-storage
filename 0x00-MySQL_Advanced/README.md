@@ -48,4 +48,4 @@ For my learning of backend web dev in ALX School
 | [4-store.sql](./4-store.sql)                  | Trigger for reducing quantity of an item on adding new order  |
 | [5-valid_email.sql](./5-valid_email.sql)      | Trigger for resseting valid email when email has changes.     |
 | [6-bonus](./6-bonus.sql)                      | Add procecedure                                               |
-
+| [7-average_score.sql](./7-average_score.sql)  | Another procedure                                             |
