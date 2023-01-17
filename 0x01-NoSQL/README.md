@@ -70,3 +70,4 @@ For my learning of backend web dev in ALX School
 |[6-update](./6-update)| Update matched|
 |[7-delete](./7-delete)| Delete matched|
 |[8-all.py](./8-all.py)| List all database|
+|[9-insert_school.py](./9-insert_school.py)| Insert some values into the document.|
