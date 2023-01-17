@@ -63,3 +63,4 @@ For my learning of backend web dev in ALX School
 | --------------------------------------------- | ------------------------------------------------------------- |
 |[0-list_databases](./0-list_databases)        | List all databases in MongoDB      |
 |[1-use_or_create_database](./1-use_or_create_database)|Create MongoDB database     |
+|[2-insert](./2-insert)| Inserts a single document into a collection in mongodb     |
