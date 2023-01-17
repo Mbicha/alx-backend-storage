@@ -68,3 +68,4 @@ For my learning of backend web dev in ALX School
 |[4-match](./4-match)| Find match|
 |[5-count](./5-count)| Count documents|
 |[6-update](./6-update)| Update matched|
+|[7-delete](./7-delete)| Delete matched|
