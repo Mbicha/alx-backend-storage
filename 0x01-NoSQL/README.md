@@ -69,7 +69,11 @@ For my learning of backend web dev in ALX School
 |[5-count](./5-count)| Count documents|
 |[6-update](./6-update)| Update matched|
 |[7-delete](./7-delete)| Delete matched|
-|[8-all.py](./8-all.py)| List all database|
-|[9-insert_school.py](./9-insert_school.py)| Insert some values into the document.|
-|[10-update_topics.py](./10-update_topics.py)| Update topics.|
-|[11-schools_by_topic.py](./11-schools_by_topic.py)| Search specific topic.|
+|[8-all](./8-all.py)| List all database|
+|[9-insert_school](./9-insert_school.py)| Insert some values into the document.|
+|[10-update_topics](./10-update_topics.py)| Update topics.|
+|[11-schools_by_topic](./11-schools_by_topic.py)| Search specific topic.|
+|[12-log_stats](./12-log_stats.py)| Log stats.|
+|[100-find](./100-find)| Regex|
+|[101-students](./101-students.py)|Top students.|
+|[102-log_stats](./102-log_stats.py)|Log stats.|
