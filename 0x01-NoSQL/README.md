@@ -67,3 +67,4 @@ For my learning of backend web dev in ALX School
 |[3-all](./3-all)|List all entries in a collection.|
 |[4-match](./4-match)| Find match|
 |[5-count](./5-count)| Count documents|
+|[6-update](./6-update)| Update matched|
